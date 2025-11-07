@@ -1,0 +1,128 @@
+[
+    {
+        "id": "1",
+        "name": "Zainab Tariq",
+        "age": 23,
+        "course": "Mathematics",
+        "marks": 73.8
+    },
+    {
+        "id": "2",
+        "name": "Imran Rana",
+        "age": 23,
+        "course": "Computer Science",
+        "marks": 82.8
+    },
+    {
+        "id": "3",
+        "name": "Sara Rizvi",
+        "age": 23,
+        "course": "English Literature",
+        "marks": 58.1
+    },
+    {
+        "id": "4",
+        "name": "Bilal Rizvi",
+        "age": 21,
+        "course": "Psychology",
+        "marks": 53.9
+    },
+    {
+        "id": "5",
+        "name": "Fatima Ahmed",
+        "age": 23,
+        "course": "Mathematics",
+        "marks": 78.6
+    },
+    {
+        "id": "6",
+        "name": "Bilal Qureshi",
+        "age": 19,
+        "course": "Psychology",
+        "marks": 55.8
+    },
+    {
+        "id": "7",
+        "name": "Kamran Qureshi",
+        "age": 24,
+        "course": "Physics",
+        "marks": 75.0
+    },
+    {
+        "id": "8",
+        "name": "Bilal Khan",
+        "age": 22,
+        "course": "Chemistry",
+        "marks": 58.8
+    },
+    {
+        "id": "9",
+        "name": "Usman Qureshi",
+        "age": 23,
+        "course": "Chemistry",
+        "marks": 92.0
+    },
+    {
+        "id": "10",
+        "name": "Fatima Ahmed",
+        "age": 23,
+        "course": "English Literature",
+        "marks": 54.1
+    },
+    {
+        "id": "11",
+        "name": "Ali Butt",
+        "age": 19,
+        "course": "Electrical Engineering",
+        "marks": 85.2
+    },
+    {
+        "id": "12",
+        "name": "Ali Rana",
+        "age": 23,
+        "course": "Physics",
+        "marks": 56.5
+    },
+    {
+        "id": "13",
+        "name": "Aisha Rana",
+        "age": 18,
+        "course": "Accounting",
+        "marks": 89.6
+    },
+    {
+        "id": "14",
+        "name": "Ali Tariq",
+        "age": 18,
+        "course": "Business Administration",
+        "marks": 65.2
+    },
+    {
+        "id": "15",
+        "name": "Bilal Ali",
+        "age": 18,
+        "course": "Business Administration",
+        "marks": 73.9
+    },
+    {
+        "id": "16",
+        "name": "Usman Rana",
+        "age": 19,
+        "course": "Mathematics",
+        "marks": 87.8
+    },
+    {
+        "id": "17",
+        "name": "Zainab Rizvi",
+        "age": 18,
+        "course": "Computer Science",
+        "marks": 51.7
+    },
+    {
+        "id": "18",
+        "name": "Bilal Chaudhry",
+        "age": 19,
+        "course": "Chemistry",
+        "marks": 52.2
+    }
+]
